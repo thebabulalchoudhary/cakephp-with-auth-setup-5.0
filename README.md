@@ -1,0 +1,1 @@
+# cakephp-with-auth-setup-5.0
